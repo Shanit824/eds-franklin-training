@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/eds-franklin-training/:/",
-    "/content/eds-franklin-training/configuration:/config.json",
+    "/content/eds-franklin-training/configuration:/configuration.json",
     "/content/eds-franklin-training/metadata:/metadata.json",
     "/content/eds-franklin-training/redirects:/redirects.json"
   ],
