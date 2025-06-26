@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/eds-franklin-training/:/",
+    "/content/eds-franklin-training/:/"
   ],
   "includes": [
     "/content/eds-franklin-training/"
